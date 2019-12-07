@@ -1,5 +1,3 @@
-#Κοσμάς Στυλιανός-Ιωάννης 3100080
-#Κορωνιάς Αντώνης 3150075
 				.data
 msg1: 			.asciiz "Enter number of objects in the set (n): "
 msg2: 			.asciiz "Enter number to be chosen (k): "
